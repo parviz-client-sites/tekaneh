@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parviz-client-sites.github.io/tekaneh/sitemap.xml
